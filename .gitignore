@@ -1,0 +1,19 @@
+data/raw/
+data/processed/
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.venv/
+ENV/
+env/
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+.env
